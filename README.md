@@ -74,9 +74,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alok0818" alt="alok0818" /></a> </p>
 
-<div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=alok0818&show_icons=true&locale=en&layout=compact" alt="alok0818" /></div>
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=alok0818&show_icons=true&locale=en&layout=compact" alt="alok0818" /></div><br/>
 
-<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=alok0818&show_icons=true&locale=en" alt="alok0818" /></div>
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api?username=alok0818&show_icons=true&locale=en" alt="alok0818" /></div><br/>
 
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alok0818&" alt="alok0818" /></div>
 
