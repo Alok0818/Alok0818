@@ -64,7 +64,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alok-kushwaha-02b6ba129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alok-kushwaha-02b6ba129/" height="30" width="40" /></a>
 </p>
 
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
@@ -74,7 +73,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alok0818" alt="alok0818" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok0818&show_icons=true&locale=en&layout=compact" alt="alok0818" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok0818&show_icons=true&locale=en&layout=compact" alt="alok0818" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok0818&show_icons=true&locale=en" alt="alok0818" /></p>
 
