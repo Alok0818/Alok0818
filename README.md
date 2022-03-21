@@ -63,9 +63,7 @@
 <a href="https://twitter.com/alok_0818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alok_0818" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alok-kushwaha-02b6ba129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alok-kushwaha-02b6ba129/" height="30" width="40" /></a>
 </p>
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 ---
 <!-- ## 🛠 Github Stats -->
 <h3>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
@@ -73,11 +71,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alok0818" alt="alok0818" /></a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok0818&show_icons=true&locale=en&layout=compact" alt="alok0818" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok0818&show_icons=true&locale=en&layout=compact" alt="alok0818" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alok0818&show_icons=true&locale=en" alt="alok0818" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alok0818&show_icons=true&locale=en" alt="alok0818" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok0818&" alt="alok0818" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alok0818&" alt="alok0818" /></p>
 
 
 ⭐️ From [Alokkumar Kushwaha](https://github.com/Alok0818) -->
