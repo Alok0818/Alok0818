@@ -59,9 +59,16 @@
 <!--  ### 🔗 🤝🏻 Connect with Me -->
 <h3>🔗 Connect with Me !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok0818&label=Profile%20views&color=0e75b6&style=flat" alt="alok0818" /> </p>
-<p align="center">
+<!-- <p align="center">
 <a href="https://twitter.com/alok_0818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alok_0818" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alok-kushwaha-02b6ba129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alok-kushwaha-02b6ba129/" height="30" width="40" /></a>
+</p> -->
+<p align="center">
+<a href="https://www.linkedin.com/in/alok-kushwaha-02b6ba129/"><img src="https://img.shields.io/badge/Alokkumar Kushwaha-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:duwesh.kr@gmail.com"><img src="https://img.shields.io/badge/-duwesh.kr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/dkduwesh_/"><img src="https://img.shields.io/badge/-@dkduwesh_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.twitter.com/DuweshKumar"><img src="https://img.shields.io/badge/-@DuweshKumar_-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
+<!-- <a href="https://www.facebook.com/duwesh.kumar/"><img src="https://img.shields.io/badge/-@duwesh.kumar-1877F2?style=flat&logo=facebook&logoColor=white"/></a> -->
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
