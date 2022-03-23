@@ -65,11 +65,11 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alok-kushwaha-02b6ba129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alok-kushwaha-02b6ba129/" height="30" width="40" /></a>
 </p> -->
 <p align="center">
-<a href="https://www.linkedin.com/in/alok-kushwaha-02b6ba129/"><img src="https://img.shields.io/badge/Alokkumar Kushwaha-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alok-kushwaha-02b6ba129/"><img src="https://img.shields.io/badge/Alok Kushwaha-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:alokkushwaha0818@gmail.com"><img src="https://img.shields.io/badge/-alokkushwaha0818@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="https://www.instagram.com/dkduwesh_/"><img src="https://img.shields.io/badge/-@dkduwesh_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
-<a href="https://www.twitter.com/@alok_0818"><img src="https://img.shields.io/badge/-@Alok0818_-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
-<!-- <a href="https://www.facebook.com/duwesh.kumar/"><img src="https://img.shields.io/badge/-@duwesh.kumar-1877F2?style=flat&logo=facebook&logoColor=white"/></a> -->
+<a href="https://portfolio-alokkushwaha.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-E4405F?style=flat&logo=portfolio&logoColor=white"/></a>
+<a href="https://www.twitter.com/@alok_0818"><img src="https://img.shields.io/badge/-Alok kushwaha_-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.canva.com/design/DAE6Bs0RUIo/LnG2wkjH7Uj_yAtT2zzcBA/view?utm_content=DAE6Bs0RUIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/-Resume-1877F2?style=flat&logo=Resume&logoColor=white"/></a>
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
