@@ -18,7 +18,7 @@
 <div align="center">
    <p> 🌱 I'm on track for learning more about Full Stack Web Development</p>
    <p> 💬 Ask me about ReactJS , Javascript , DS-Algo , Node Js , Express , MangoDB.</p>
-   <p> 📫 How to reach me alokkushwaha0818@gmail.com!</p>
+<!--    <p> 📫 How to reach me alokkushwaha0818@gmail.com!</p> -->
    <p> 🥅 2022 Goals : Learning new things and contribute more</p>
   <p>📄 &nbsp;Please have a look at my <a href="https://www.canva.com/design/DAE6Bs0RUIo/LnG2wkjH7Uj_yAtT2zzcBA/view?utm_content=DAE6Bs0RUIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/-Resume-1877F2?style=flat&logo=Resume&logoColor=white"/></a> and <a href="https://portfolio-alokkushwaha.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-E4405F?style=flat&logo=portfolio&logoColor=white"/></a> for more details about me. I'm open to feedback and suggestions!</p/>
 </div>
