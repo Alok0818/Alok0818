@@ -63,6 +63,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok0818&label=Profile%20views&color=0e75b6&style=flat" alt="alok0818" /> </p>
 <!-- <p align="center">
 <a href="https://twitter.com/alok_0818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alok_0818" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alok-kushwaha-02b6ba129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alok-kushwaha-02b6ba129/" height="30" width="40" /></a>
 </p> -->
 <p align="center">
