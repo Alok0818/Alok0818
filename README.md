@@ -89,7 +89,7 @@
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alok0818&" alt="alok0818" /></div><br/>
 
 
-⭐️ From [Alokkumar Kushwaha](https://github.com/Alok0818)
+⭐️ From [Alokkumar Kushwaha](https://github.com/Alok0818)...
 <!-- {"mode":"full","isActive":false} -->
 
 
