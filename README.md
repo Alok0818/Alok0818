@@ -107,7 +107,7 @@
 </div>
 
 
-⭐️ From [Alokkumar Kushwaha](https://github.com/Alok0818)...
+⭐️ From [Alokkumar Kushwaha](https://github.com/Alok0818).....
 
 
 
