@@ -96,11 +96,6 @@
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Alok0818&theme=synthwave" alt="cybervirus997" width="47%" />
   </p>
 </div>
- 
- 
-<div align="center">
-<a href="https://github.com/Alok0818/github-readme-activity-graph"><img alt="Alok's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alok0818&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</div>
   
 <div align="center">
    <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=Alok0818&theme=synthwave" alt="Alok0818" />
