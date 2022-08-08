@@ -95,7 +95,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Alok0818&theme=synthwave" alt="cybervirus997" width="47%" />
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Alok0818&theme=synthwave" alt="cybervirus997" width="47%" />
   </p>
-</div>
+</div><br/>
   
 <div align="center">
    <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=Alok0818&theme=synthwave" alt="Alok0818" />
